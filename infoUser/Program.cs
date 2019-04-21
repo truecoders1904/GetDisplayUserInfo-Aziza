@@ -7,8 +7,9 @@ namespace infoUser
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.Write("get out");
         }
 
-        //comment //try this now
+        //comment 
     }
 }
