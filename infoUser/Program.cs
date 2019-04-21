@@ -8,6 +8,7 @@ namespace infoUser
         {
             Console.WriteLine("Hello World!");
             Console.Write("get out");
+            Console.ReadLine();
         }
 
         //comment 
